@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Aug 02 11:54:39 EET 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0156-4aad-3045-000004014a88 
+on database directory memory:/home/meanmachine/NetBeansProjects/inmemory/inmemory with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/home/meanmachine/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=/home/meanmachine/NetBeansProjects/inmemory
+os.name=Linux
+os.arch=amd64
+os.version=3.19.0-65-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
