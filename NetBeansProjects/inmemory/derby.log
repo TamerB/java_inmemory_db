@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Tue Aug 02 11:54:39 EET 2016:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0156-4aad-3045-000004014a88 
+Tue Aug 02 12:03:07 EET 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0156-4ab4-ee82-000003fe3958 
 on database directory memory:/home/meanmachine/NetBeansProjects/inmemory/inmemory with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
 Loaded from file:/home/meanmachine/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
 java.vendor=Oracle Corporation
